@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <a href="https://github.com/fwoelffel/fwoelffel">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=avatsaev&show_icons=true&count_private=true alt="Aslan's GitHub Stats" />
