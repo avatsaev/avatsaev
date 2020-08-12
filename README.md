@@ -1,7 +1,11 @@
 ### Hi there 👋
 
+<a href="https://github.com/fwoelffel/fwoelffel">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=avatsaev&show_icons=true&count_private=true alt="Aslan's GitHub Stats" />
+</a>
+
 <!--
-**avatsaev/avatsaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**fwoelffel/fwoelffel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
